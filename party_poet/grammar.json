@@ -15,6 +15,7 @@
 		"DESTROY::\n\n#D#\n#E#\n#S#\n#T#\n#R#\n#O#\n#Y#",
 		"DIE:\n\n#D#\n#I#\n#E#",
 		"FIGHT:\n\n#F#\n#I#\n#G#\n#H#\n#T#",
+		"SMOKE:\n\n#S#\n#M#\n#O#\n#K#\n#E#",
 		"STAB U:\n\n#S#\n#T#\n#A#\n#B#\n\n#U#",
 		"get BAKED:\n\n#B#\n#A#\n#K#\n#E#\n#D#",
 		"get BLOTTO:\n\n#B#\n#L#\n#O#\n#T#\n#T#\n#O#",
@@ -137,8 +138,11 @@
 		"G row"
 	],
 	"H": [
+		"H andle my anxious thoughts",
 		"H ave a healthy snack",
+		"H ead to the gym",
 		"H elp a stranger",
+		"H ike in the hills",
 		"H old someone's hand",
 		"H ope for the best",
 		"H ug my pets"
@@ -146,11 +150,17 @@
 	"I": [
 		"I gnore the haters",
 		"I magine living my dreams",
+		"I mmerse myself in joy",
+		"I nch closer to my goals",
 		"I nhale",
-		"I nhale deeply"
+		"I nhale deeply",
+		"I nspire others to achieve",
+		"I solate any negativity"
 	],
 	"J": [
+		"J og around the park",
 		"J og to the grocery store",
+		"J oin a book club",
 		"J oin in with others",
 		"J oke with friends",
 		"J ump for joy"
@@ -181,9 +191,14 @@
 	"M": [
 		"M ake a cup of green tea",
 		"M ake a difference",
+		"M ake new friends",
+		"M anage my emotions",
 		"M aster a skill",
 		"M ean what I say",
-		"M editate"
+		"M editate",
+		"M eet new people",
+		"M ove my body",
+		"M unch on something tasty"
 	],
 	"N": [
 		"N ame each animal I see",
@@ -191,16 +206,21 @@
 		"N ever back down",
 		"N ever give up",
 		"N ote down my dreams",
+		"N otice my progress",
+		"N udge myself into action",
 		"N urture my talents"
 	],
 	"O": [
 		"O ffer assistance",
 		"O ffer to help",
+		"O nly buy what I need",
 		"O pen my heart",
 		"O pen the window",
 		"O rder my thoughts",
+		"O rganise my diary",
 		"O utdo all expectations",
 		"O utwit my anxieties",
+		"O vercome my fears",
 		"O wn it"
 	],
 	"P": [
@@ -220,6 +240,8 @@
 	],
 	"Q": [
 		"Q uench my thirst",
+		"Q uickly do 10 star-jumps",
+		"Q uietly hum my favourite tune",
 		"Q uit being negative",
 		"Q uote my heroes"
 	],
@@ -256,26 +278,57 @@
 		"S trive for success"
 	],
 	"T": [
+		"T ackle my problems",
 		"T ake a multi-vitamin",
 		"T ake a nap",
 		"T ake lunch with friends",
-		"T alk"
+		"T alk",
+		"T each myself something new",
+		"T ell my parents I love them",
+		"T hink about the progress I've made",
+		"T ip generously",
+		"T irelessly pursue my dreams",
+		"T otally kick butt",
+		"T race something pretty",
+		"T reat myself",
+		"T ruly believe in myself",
+		"T ry a new dish"
 	],
 	"U": [
+		"U nderstand my own needs",
 		"U ndo a bad habit",
+		"U nlearn a bad habit",
 		"U nwind",
 		"U rge myself to improve"
 	],
 	"V": [
 		"V alue my time with friends",
-		"V isualise success"
+		"V aporise negativity",
+		"V isit my neighbours",
+		"V isit the gym",
+		"V isit the library",
+		"V isualise success",
+		"V olunteer at a food bank",
+		"V olunteer at the museum"
 	],
 	"W": [
 		"W ake up early",
-		"W ater the plants"
+		"W alk in the park",
+		"W arm myself by the fire",
+		"W ash my hair",
+		"W ater the plants",
+		"W ear pajamas all day",
+		"W ear something I love",
+		"W ill myself onwards",
+		"W in at life",
+		"W rap up warm"
 	],
 	"X": [
+		"eX amine my emotions",
+		"eX cel at what I do",
+		"eX ercise",
 		"eX pect the best",
+		"eX press my gratitude",
 		"eX ude confidence"
 	],
 	"Y": [
