@@ -1,8 +1,8 @@
 {
-  "_BOT": "@_alphabot",
+	"_BOT": "@_alphabot",
 	"_AUTHOR": "@hall_luke",
 	"_DESC": "tweets new latin/alien hybrid alphabets & responds with nonsense",
-  "_TO-DO": "reply with a standard alphabet"
+	"_TO-DO": "reply with a standard alphabet",
 
 	"origin": ["#A##B##C##D##E##F##G##H##I##J##K##L##M##N##O##P##Q##R##S##T##U##V##W##X##Y##Z#\n#a##b##c##d##e##f##g##h##i##j##k##l##m##n##o##p##q##r##s##t##u##v##w##x##y##z#"],
 
