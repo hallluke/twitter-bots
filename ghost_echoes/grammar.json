@@ -1,12 +1,12 @@
 {
 	"origin": [
-        "#edition_one#",
-        "#edition_two#",
-        "#edition_three#",
-        "#edition_four#"
-    ],
+		"#edition_one#",
+		"#edition_two#",
+		"#edition_three#",
+		"#edition_four#"
+	],
 
-    "edition_one" : [
+	"edition_one": [
 		"Abandon normal instruments",
 		"Accept advice",
 		"Accretion",
@@ -122,8 +122,8 @@
 		"You don't have to be ashamed of using your own ideas",
 		"[blank white card]"
 	],
-    
-	"edition_two" : [
+
+	"edition_two": [
 		"Abandon normal instruments",
 		"Accept advice",
 		"Accretion",
@@ -253,8 +253,8 @@
 		"You don't have to be ashamed of using your own ideas",
 		"[blank white card]"
 	],
-    
-	"edition_three" : [
+
+	"edition_three": [
 		"Abandon normal instruments",
 		"Accept advice",
 		"Accretion",
@@ -379,8 +379,8 @@
 		"You don't have to be ashamed of using your own ideas",
 		"[blank white card]"
 	],
-    
-	"edition_four" : [
+
+	"edition_four": [
 		"Abandon desire",
 		"Abandon normal instructions",
 		"Accept advice",
