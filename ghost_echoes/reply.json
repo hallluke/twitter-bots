@@ -1,4 +1,8 @@
 {
+	"_BOT": "@ghost_echoes",
+	"_AUTHOR": "@hall_luke",
+	"_DESC": "replies with a random phrase from the specified edition of Brian Eno and Peter Schmidt's oblique strategy cards",
+
 	"1|one|75|first": "#edition_one#",
 	"2|two|78|second": "#edition_two#",
 	"3|three|79|third": "#edition_three#",
