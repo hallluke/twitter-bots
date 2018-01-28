@@ -1,0 +1,7 @@
+{
+	"1|one|75|first": "#edition_one#",
+	"2|two|78|second": "#edition_two#",
+	"3|three|79|third": "#edition_three#",
+	"4|four|96|fourth": "#edition_four#",
+	".": "#origin#"
+}
