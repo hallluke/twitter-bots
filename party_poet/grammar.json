@@ -1,0 +1,275 @@
+{
+	"_BOT": "@party_poet",
+	"_AUTHOR": "@hall_luke",
+	"_DESC": "creates positive acrostic poems from negative feelings",
+
+	"origin": [
+		"I wanna #wanna#",
+		"I wanna #wanna#",
+		"I wanna #wanna#",
+		"I wanna #wanna#",
+		"I want #want#"
+	],
+	"wanna": [
+		"CRY:\n\n#C#\n#R#\n#Y#",
+		"DESTROY::\n\n#D#\n#E#\n#S#\n#T#\n#R#\n#O#\n#Y#",
+		"DIE:\n\n#D#\n#I#\n#E#",
+		"STAB U:\n\n#S#\n#T#\n#A#\n#B#\n\n#U#",
+		"get DRUNK:\n\n#D#\n#R#\n#U#\n#N#\n#K#",
+		"get FREAKY:\n\n#F#\n#R#\n#E#\n#A#\n#K#\n#Y#",
+		"get FUCKED:\n\n#F#\n#U#\n#C#\n#K#\n#E#\n#D#",
+		"get HIGH:\n\n#H#\n#I#\n#G#\n#H#",
+		"get LOST:\n\n#L#\n#O#\n#S#\n#T#",
+		"get USED:\n\n#U#\n#S#\n#E#\n#D#",
+		"get VIOLENT:\n\n#V#\n#I#\n#O#\n#L#\n#E#\n#N#\n#T#",
+		"get WASTED:\n\n#W#\n#A#\n#S#\n#T#\n#E#\n#D#"
+	],
+	"want": [
+		"CRACK:\n\n#C#\n#R#\n#A#\n#C#\n#K#",
+		"DEATH:\n\n#D#\n#E#\n#A#\n#T#\n#H#",
+		"PIZZA:\n\n#P#\n#I#\n#ZZ#\n#A#",
+		"SEX:\n\n#S#\n#E#\n#X#"
+	],
+	"A": [
+		"A chieve my dreams",
+		"A dd something",
+		"A djust my posture",
+		"A llow myself to breathe",
+		"A lways smile",
+		"A maze myself",
+		"A nswer my heart",
+		"A sk a question",
+		"A ttract positivity"
+	],
+	"B": [
+		"B anish negative thoughts",
+		"B ask in the dawn light",
+		"B e grateful",
+		"B e helpful",
+		"B e my best self",
+		"B ecome one with myself",
+		"B egin writing my journal",
+		"B et on myself",
+		"B link my eyes",
+		"B reak an unhealthy habit",
+		"B reathe deeply",
+		"Be mindful"
+	],
+	"C": [
+		"C arry on",
+		"C elebrate my achievements",
+		"C hannel my thoughts",
+		"C hase my dreams",
+		"C heck my priorities",
+		"C hill out with friends",
+		"C lap my hands",
+		"C lean my workspace",
+		"C lear away distractions",
+		"C ousel myself"
+	],
+	"D": [
+		"D ance",
+		"D eliver those results",
+		"D estress",
+		"D etox",
+		"D iscover what's possible",
+		"D o ten pushups",
+		"D o ten sit-ups",
+		"D on't hesitate",
+		"D on't stay up too late",
+		"D raw something happy",
+		"D ream big",
+		"D rink enough water",
+		"D rink water"
+	],
+	"E": [
+		"E at a filling dinner",
+		"E at a nutritions snack",
+		"E at breakfast",
+		"E at healthily",
+		"E at lunch",
+		"E at something healthy",
+		"E ducate myself",
+		"E nd those negative thoughts",
+		"E nd up on top",
+		"E njoy some me time",
+		"E xercise",
+		"E xhale"
+	],
+	"F": [
+		"F ace my fears",
+		"F ast for a day",
+		"F inish that painting",
+		"F inish that poem",
+		"F ocus on me",
+		"F ocus on my dreams",
+		"F ocus on my needs",
+		"F ocus on what's important",
+		"F ollow my dreams",
+		"F orgive myself",
+		"F rown less"
+	],
+	"G": [
+		"G asp in astonishment",
+		"G aze at the moon",
+		"G et in shape",
+		"G et some fresh air",
+		"G ive it my all",
+		"G ive thanks",
+		"G row"
+	],
+	"H": [
+		"H ave a healthy snack",
+		"H elp a stranger",
+		"H old someone's hand",
+		"H ope for the best",
+		"H ug my pets"
+	],
+	"I": [
+		"I gnore the haters",
+		"I magine living my dreams",
+		"I nhale",
+		"I nhale deeply"
+	],
+	"J": [
+		"J og to the grocery store",
+		"J oin in with others",
+		"J oke with friends",
+		"J ump for joy"
+	],
+	"K": [
+		"K eep on going",
+		"K eep persevering",
+		"K eep thinking positively",
+		"K eep working at it",
+		"K ick a bad habit",
+		"K ick back & relax",
+		"K iss a loved one"
+	],
+	"L": [
+		"L augh 'til I cry",
+		"L augh with my friends",
+		"L earn a new fact",
+		"L earn something interesting",
+		"L earn something new",
+		"L ist things I'm thankful for",
+		"L isten carefully",
+		"L ose the negativity",
+		"L ove freely",
+		"L ove what I do",
+		"L unch with friends",
+		"Listen and think"
+	],
+	"M": [
+		"M ake a cup of green tea",
+		"M ake a difference",
+		"M aster a skill",
+		"M ean what I say",
+		"M editate"
+	],
+	"N": [
+		"N ame each animal I see",
+		"N ap often",
+		"N ever back down",
+		"N ever give up",
+		"N ote down my dreams",
+		"N urture my talents"
+	],
+	"O": [
+		"O ffer assistance",
+		"O ffer to help",
+		"O pen my heart",
+		"O pen the window",
+		"O rder my thoughts",
+		"O utdo all expectations",
+		"O utwit my anxieties",
+		"O wn it"
+	],
+	"P": [
+		"P aint a picture",
+		"P amper myself",
+		"P ause and take a breath",
+		"P erfect my routine",
+		"P et the nearest cat",
+		"P hone my best friend",
+		"P icture my success",
+		"P lace myself first",
+		"P lay an instrument",
+		"P ossess a great attitude",
+		"P ractise mindfulness",
+		"P rove it to myself",
+		"P ut myself first"
+	],
+	"Q": [
+		"Q uench my thirst",
+		"Q uit being negative",
+		"Q uote my heroes"
+	],
+	"R": [
+		"R each for the stars",
+		"R ead a book",
+		"R eaffirm my worth",
+		"R ecall past victories",
+		"R echarge my batteries",
+		"R ejoice in the little things",
+		"R elax",
+		"R eply to a text",
+		"R eply to an email",
+		"R espond to a message",
+		"R est a while",
+		"R est my eyes",
+		"R oot for myself",
+		"R un around the block"
+	],
+	"S": [
+		"S care myself, just a little",
+		"S eize the day",
+		"S hine like the sun",
+		"S leep 8 hours",
+		"S leep for a while",
+		"S mile often",
+		"S pend time in the garden",
+		"S pend time w/ my best friend",
+		"S pend time with family",
+		"S targaze",
+		"S tay hydrated",
+		"S tay positive",
+		"S tretch my legs",
+		"S trive for success"
+	],
+	"T": [
+		"T ake a multi-vitamin",
+		"T ake a nap",
+		"T ake lunch with friends",
+		"T alk"
+	],
+	"U": [
+		"U ndo a bad habit",
+		"U nwind",
+		"U rge myself to improve"
+	],
+	"V": [
+		"V alue my time with friends",
+		"V isualise success"
+	],
+	"W": [
+		"W ake up early",
+		"W ater the plants"
+	],
+	"X": [
+		"eX pect the best",
+		"eX ude confidence"
+	],
+	"Y": [
+		"Y ell encouragement to others",
+		"Y ell out loud with joy"
+	],
+	"Z": [
+		"Z ap away my problems",
+		"Z one in on my passion"
+	],
+	"ZZ": [
+		"Z ap away my problems\nZ one in on my passion",
+		"Z one in on my passion\nZ ap away my problems"
+	]
+}
