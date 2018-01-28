@@ -1,5 +1,5 @@
 # twitter-bots
-Tracery grammars for bots hosted on [cheapbotsdonequick](http://cheapbotsdonequick.com):
+Tracery grammars for bots hosted on [Cheap Bots, Done Quick!](http://cheapbotsdonequick.com):
 
 |Twitter Handle|Description|CBDQ|
 |---|---|---|
