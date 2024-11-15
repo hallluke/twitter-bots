@@ -1,0 +1,7 @@
+{
+"origin":["#court.capitalize.a.capitalize# of #wings.capitalize# and #ruin.capitalize#"],
+"court": ["assembly","audience","bastion","chamber","circle","citadel","colony","conquest","council","domain","dome","dominion","dynasty","gallery","hall","hegemony","household","keep","kingdom","mansion","monarchy","nation","palace","pavilion","province","realm","realm","reign","republic","retinue","sanctum","sceptre","sovereignty","state","territory","throne","tribunal"],
+"wings":["#wing.s#", "#wing#"],
+"wing":["arcana","blade","blood","bloodline","chronicle","coven","crown","dawn","destiny","echo","eclipse","ember","empire","fate","frost","fury","gale","grimoire","horizon","kingdom","legacy","legend","mist","nightfall","phantom","prophecy","quest","reckoning","revenge","rune","shadow","sorcery","summoning","sword","talisman","tempest","thorns","warden","wing","witchcraft"],
+"ruin":["blight","corruption","debris","decay","defilement","degradation","desecration","destruction","devastation","dilapidation","fury","obliteration","ravage","roses","rubble","ruin","ruination","starlight","wreckage"]
+}
